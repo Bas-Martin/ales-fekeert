@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dweilorkest Ales Fekeerts
+X-WR-CALNAME:Dweilorkest Ales Fekeerts
+BEGIN:VEVENT
+UID:0f091322-e940-4449-aebf-80a933deb2bc
+SEQUENCE:0
+DTSTAMP:20260306T090322Z
+DTSTART:20250712T120000Z
+DTEND:20250712T200000Z
+SUMMARY:Zomerfestival
+LOCATION:Stadspark\, Hometown
+DESCRIPTION:Een gezellige middag en avond vol muziek in het park. Gratis e
+ ntree!
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dweilorkest Ales Fekeerts
+X-WR-CALNAME:Dweilorkest Ales Fekeerts
+BEGIN:VEVENT
+UID:4f6dd0c2-4a61-475a-8896-3b0093e4a8d8
+SEQUENCE:0
+DTSTAMP:20260306T090322Z
+DTSTART:20260110T140000Z
+DTEND:20260110T170000Z
+SUMMARY:Nieuwjaarsreceptie
+LOCATION:Gemeentehuis\, Hometown
+DESCRIPTION:Ales Fekeerts verzorgt de muzikale omlijsting van de officiël
+ e nieuwjaarsreceptie.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

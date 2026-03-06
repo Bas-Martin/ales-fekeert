@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dweilorkest Ales Fekeerts
+X-WR-CALNAME:Dweilorkest Ales Fekeerts
+BEGIN:VEVENT
+UID:9e0a6d01-a53f-4562-ba96-93bbea67eabe
+SEQUENCE:0
+DTSTAMP:20260306T090322Z
+DTSTART:20250426T090000Z
+DTEND:20250426T140000Z
+SUMMARY:Koningsdag Optreden
+LOCATION:Marktplein\, Hometown
+DESCRIPTION:Kom mee vieren op het marktplein! Ales Fekeerts speelt de mooi
+ ste nummers tijdens Koningsdag.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

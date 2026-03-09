@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dweilorkest Ales Fekeerts
+X-WR-CALNAME:Dweilorkest Ales Fekeerts
+BEGIN:VEVENT
+UID:ffbc9144-6075-403c-88d7-c3b3ff5ad867
+SEQUENCE:0
+DTSTAMP:20260309T153255Z
+DTSTART:20260628T090000Z
+DTEND:20260628T160000Z
+SUMMARY:Dweilorkesten festival
+LOCATION:Loil
+DESCRIPTION:Het dweilorkestenfestival in Loil\, vaak verbonden aan lokale 
+ festiviteiten zoals de sfeermarkt van muziekvereniging Amicitia\, biedt ee
+ n gezellige middag met diverse dweilorkesten.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

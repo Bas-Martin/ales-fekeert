@@ -1,2 +1,2 @@
-:HL["/ales-fekeert/_next/static/chunks/6695a2ffaeb60eb7.css","style"]
-0:{"buildId":"gaaQkUTuHB0TE7Uj4IiyV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/ales-fekeert/_next/static/chunks/53d8b3af2ebf389b.css","style"]
+0:{"buildId":"nva8kJwSXveDs4grjSbPf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

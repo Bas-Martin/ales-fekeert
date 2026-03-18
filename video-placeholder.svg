@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#1a1a2e"/>
+  <rect x="240" y="130" width="160" height="100" rx="8" fill="#e63946" opacity="0.9"/>
+  <polygon points="296,155 296,235 376,195" fill="white"/>
+  <text x="320" y="295" text-anchor="middle" fill="#aaa" font-family="sans-serif" font-size="16">Highlight reel 2024</text>
+</svg>
